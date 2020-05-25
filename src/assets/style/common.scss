@@ -1,0 +1,163 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('../fonts/e2317b4583d93d022e023245a763d6df.ttf');
+    /* IE9 Compat Modes */
+    src: url('../fonts/e2317b4583d93d022e023245a763d6df.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'FinkHeavy';
+    src: url('../fonts/FinkHeavy.woff2');
+    /* IE9 Compat Modes */
+    src: url('../fonts/FinkHeavy.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NovaSquare';
+    src: url('../fonts/NovaSquare-Regular.ttf');
+    /* IE9 Compat Modes */
+    src: url('../fonts/NovaSquare-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/a851CQ6ikiJXEW1V0861095699dfc6397612c85e6a63a87e2.ttf');
+    /* IE9 Compat Modes */
+    src: url('../fonts/a851CQ6ikiJXEW1V0861095699dfc6397612c85e6a63a87e2.ttf') format('truetype');
+}
+
+body {
+    // font-family: MyWebFont, sans-serif;
+    // font-family: NovaSquare, sans-serif;
+    font-family: Roboto, sans-serif;
+    font-family: sans-serif;
+}
+
+
+.home {
+    display: flex;
+
+    .col {
+        flex: 1;
+        position: relative;
+    }
+}
+
+.list-options {
+    display: flex;
+    flex-wrap: wrap;
+
+    .title {
+        width: 100%;
+        margin-bottom: 10px;
+        padding-left: 5px;
+    }
+
+    .option {
+        width: 100px;
+        height: 80px;
+        margin: 5px;
+        border: solid 1px #eeee;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        position: relative;
+
+        &.activated {
+            border: solid 1px black
+        }
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .color {
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+    margin-bottom: 20px;
+}
+
+.custom-option {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+    border: solid 1px #EEE;
+    padding: 8px;
+    background: #eee;
+    border-radius: 4px;
+
+    label {
+        width: 100%;
+        margin-bottom: 4px;
+    }
+
+    input[type="text"] {
+        padding: 8px 12px;
+        border-radius: 4px;
+        border: solid 1px #eee;
+        min-width: 200px;
+    }
+
+    input[type="file"] {
+        padding: 20px;
+        border: solid 1px #eee;
+        margin-bottom: 16px;
+    }
+}
+
+.preview {
+    padding: 10px 20px 10px 10px;
+
+    img,
+    canvas {
+        height: auto;
+        max-width: 100%;
+        border-radius: 4px;
+    }
+}
+
+
+.lds-hourglass {
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80px;
+    height: 80px;
+}
+
+.lds-hourglass:after {
+    content: " ";
+    display: block;
+    border-radius: 50%;
+    width: 0;
+    height: 0;
+    margin: 8px;
+    box-sizing: border-box;
+    border: 32px solid #9E9E9E;
+    border-color: #9E9E9E transparent #9E9E9E transparent;
+    animation: lds-hourglass 1.2s infinite;
+}
+
+@keyframes lds-hourglass {
+    0% {
+        transform: rotate(0);
+        animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    }
+
+    50% {
+        transform: rotate(900deg);
+        animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+
+    100% {
+        transform: rotate(1800deg);
+    }
+}

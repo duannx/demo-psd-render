@@ -1,0 +1,687 @@
+{
+    "design": {
+        "mockup": {
+            "layers": [
+                {
+                    "blendMode": "NORMAL",
+                    "box": {
+                        "height": 1125,
+                        "width": 900,
+                        "x": 0,
+                        "xWidth": 900,
+                        "y": 0,
+                        "yHeight": 1125
+                    },
+                    "brightness": 0,
+                    "clipLayers": [],
+                    "contrast": 0,
+                    "data": [
+                        {
+                            "key": "Rd",
+                            "value": 255
+                        },
+                        {
+                            "key": "Grn",
+                            "value": 255
+                        },
+                        {
+                            "key": "Bl",
+                            "value": 255
+                        }
+                    ],
+                    "fillOpacity": 1,
+                    "groupLayers": [],
+                    "hasClipLayers": 0,
+                    "hasMask": 0,
+                    "imgLayer": "pbase/master-mockup/3437/parse-zip-15850406535e79cd0d8d82b/1585040655.9522507color.png",
+                    "isGroup": 0,
+                    "kind": "solidcolorfill",
+                    "name": "color",
+                    "opacity": 255,
+                    "originImage": "",
+                    "replaceImage": "",
+                    "isColorLayer": true
+                },
+                {
+                    "blendMode": "NORMAL",
+                    "box": {
+                        "height": 810,
+                        "width": 477,
+                        "x": 210,
+                        "xWidth": 687,
+                        "y": 180,
+                        "yHeight": 990
+                    },
+                    "brightness": 0,
+                    "clipLayers": [],
+                    "contrast": 0,
+                    "data": "",
+                    "fillOpacity": 1,
+                    "groupLayers": [],
+                    "hasClipLayers": 0,
+                    "hasMask": 0,
+                    "imgLayer": "pbase/master-mockup/3437/parse-zip-15850406535e79cd0d8d82b/1585040656.0749545print_front.png",
+                    "isGroup": 0,
+                    "kind": "smartobject",
+                    "name": "print_front",
+                    "opacity": 255,
+                    "originImage": "",
+                    "replaceImage": "",
+                    "isPreviewLayer": true
+                },
+                {
+                    "blendMode": "NORMAL",
+                    "box": {
+                        "height": 1125,
+                        "width": 900,
+                        "x": 0,
+                        "xWidth": 900,
+                        "y": 0,
+                        "yHeight": 1125
+                    },
+                    "brightness": 0,
+                    "clipLayers": [],
+                    "contrast": 0,
+                    "data": "",
+                    "fillOpacity": 1,
+                    "groupLayers": [],
+                    "hasClipLayers": 0,
+                    "hasMask": 0,
+                    "imgLayer": "pbase/master-mockup/3437/parse-zip-15850406535e79cd0d8d82b/1585040656.121069Effect.png",
+                    "isGroup": 0,
+                    "kind": "smartobject",
+                    "name": "Effect",
+                    "opacity": 255,
+                    "originImage": "",
+                    "replaceImage": ""
+                },
+                {
+                    "blendMode": "NORMAL",
+                    "box": {
+                        "height": 1125,
+                        "width": 900,
+                        "x": 0,
+                        "xWidth": 900,
+                        "y": 0,
+                        "yHeight": 1125
+                    },
+                    "brightness": 0,
+                    "clipLayers": [],
+                    "contrast": 0,
+                    "data": [
+                        {
+                            "key": "Rd",
+                            "value": 255
+                        },
+                        {
+                            "key": "Grn",
+                            "value": 255
+                        },
+                        {
+                            "key": "Bl",
+                            "value": 255
+                        }
+                    ],
+                    "fillOpacity": 1,
+                    "groupLayers": [],
+                    "hasClipLayers": 0,
+                    "hasMask": 1,
+                    "imgLayer": "pbase/master-mockup/3437/parse-zip-15850406535e79cd0d8d82b/1585040656.626914Background.png",
+                    "isGroup": 0,
+                    "kind": "solidcolorfill",
+                    "name": "Background",
+                    "opacity": 255,
+                    "originImage": "",
+                    "replaceImage": ""
+                }
+            ],
+            "width": 900,
+            "height": 1125,
+            "id": 3437
+        },
+        "artwork": {
+            "part_name": "front",
+            "layer_name": "print_front",
+            "design": "https://oo-dev.s3.amazonaws.com/public/assets/mockup/templates/garments/simplified-short-sleeve-front/base.png",
+            "url": "https://assets-dev.boostflow.com/pbase/shop-id/10063056/artworks/thumbnail_1589191444wZQcuazknB.png",
+            "width": 3752,
+            "height": 4690,
+            "bounds": {
+                "top_left": {
+                    "x": 838,
+                    "y": 734
+                },
+                "top_right": {
+                    "x": 2843,
+                    "y": 721
+                },
+                "bottom_left": {
+                    "x": 805,
+                    "y": 4090
+                },
+                "bottom_right": {
+                    "x": 2864,
+                    "y": 4106
+                }
+            },
+            "dimensions": {
+                "width": 14,
+                "height": 23.43
+            },
+            "displace": 0,
+            "color_alpha": 40,
+            "blur": 10,
+            "plain_blank": false,
+            "mirror": true,
+            "type": "garment",
+            "needsQc": false,
+            "lighting": 0,
+            "spDimensions": {
+                "width": 14,
+                "height": 16
+            },
+            "boundsCustom": null,
+            "print_info": {
+                "top": 2.4240263906527937e-14,
+                "original_top": 2.2737367544323206e-13,
+                "left": 5.142654076556002,
+                "original_left": 48.2380952380953,
+                "width": 205.7061630622398,
+                "original_width": 1929.5238095238094,
+                "height": 246.84739567468773,
+                "original_height": 2315.428571428571,
+                "ratio": 0,
+                "dpi": 337,
+                "before_mapping_original_width": 0,
+                "before_mapping_original_height": 0
+            },
+            "layer_color_name": "color",
+            "is_transparent_color_layer": false,
+            "image_editor": "phub/15665593875d5fcc9bee72a.png",
+            "position": 0,
+            "print_position": null,
+            "url_resize": "https://assets-dev.boostflow.com/pbase/shop-id/10063056/artworks/0x1200/thumbnail_1589191444wZQcuazknB.png",
+            "dimension_unit": "inch",
+            "original_image_width": 1200,
+            "template": "",
+            "recommendedSize": "",
+            "original_image_height": 1440,
+            "group_path": "",
+            "smart_layer_path": "",
+            "ratio": 0,
+            "layer_personalization": "",
+            "layers": [
+                {
+                    "blendMode": "PASS_THROUGH",
+                    "box": {
+                        "height": 1277.3333333333333,
+                        "width": 790.1333333333333,
+                        "x": 204.8,
+                        "xWidth": 994.9333333333333,
+                        "y": 79.2,
+                        "yHeight": 1356.5333333333333
+                    },
+                    "brightness": 0,
+                    "clipLayers": [
+                        {
+                            "blendMode": "NORMAL",
+                            "box": {
+                                "height": 1440,
+                                "width": 1200,
+                                "x": 0,
+                                "xWidth": 1200,
+                                "y": 0,
+                                "yHeight": 1440
+                            },
+                            "brightness": 0,
+                            "clipLayers": [],
+                            "contrast": 0,
+                            "data": "",
+                            "fillOpacity": 1,
+                            "groupLayers": [],
+                            "hasClipLayers": 0,
+                            "hasMask": 0,
+                            "imgLayer": "pbase/shop-id/10063056/artworks/1589191504hyXWEOcbklLayer_6.png",
+                            "isGroup": 0,
+                            "kind": "pixel",
+                            "mask": "",
+                            "name": "Layer 6",
+                            "opacity": 255,
+                            "originImage": "pbase/shop-id/10063056/artworks/1589191497YVbNoJpkNZLayer_6_original.png",
+                            "replaceImage": "",
+                            "rotate": 0,
+                            "transform": {
+                                "tx": 0,
+                                "ty": 0,
+                                "xx": 0,
+                                "xy": 0,
+                                "yx": 0,
+                                "yy": 0
+                            }
+                        }
+                    ],
+                    "contrast": 0,
+                    "data": "",
+                    "fillOpacity": 1,
+                    "groupLayers": [
+                        {
+                            "blendMode": "NORMAL",
+                            "box": {
+                                "height": 188,
+                                "width": 790.1333333333333,
+                                "x": 204.8,
+                                "xWidth": 994.9333333333333,
+                                "y": 79.2,
+                                "yHeight": 267.2
+                            },
+                            "brightness": 0,
+                            "clipLayers": [],
+                            "contrast": 0,
+                            "data": [
+                                {
+                                    "key": "text",
+                                    "value": "Bearded"
+                                },
+                                {
+                                    "key": "hasWarp",
+                                    "value": false
+                                },
+                                {
+                                    "key": "hasEffects",
+                                    "value": false
+                                },
+                                {
+                                    "key": "alignment",
+                                    "value": "left"
+                                },
+                                {
+                                    "key": "name",
+                                    "value": "UTM-Fire-House"
+                                },
+                                {
+                                    "key": "style",
+                                    "value": "Regular"
+                                },
+                                {
+                                    "key": "rgb",
+                                    "value": "0,0,0"
+                                },
+                                {
+                                    "key": "font_size",
+                                    "value": 277.15873794291366
+                                }
+                            ],
+                            "fillOpacity": 1,
+                            "groupLayers": [],
+                            "hasClipLayers": 0,
+                            "hasMask": 0,
+                            "imgLayer": "pbase/shop-id/10063056/artworks/1589191488fdPxYGQFKeBearded.png",
+                            "isGroup": 0,
+                            "kind": "type",
+                            "mask": "",
+                            "name": "Bearded",
+                            "opacity": 255,
+                            "originImage": "pbase/shop-id/10063056/artworks/1589191487EJSNUDLBxNBearded_original.png",
+                            "replaceImage": "",
+                            "rotate": 0,
+                            "transform": {
+                                "tx": 768.3978773811875,
+                                "ty": 928.7110953510027,
+                                "xx": 10.393452672859262,
+                                "xy": 0,
+                                "yx": 0,
+                                "yy": 10.393452672859262
+                            }
+                        },
+                        {
+                            "blendMode": "NORMAL",
+                            "box": {
+                                "height": 98.13333333333333,
+                                "width": 426.93333333333334,
+                                "x": 386.4,
+                                "xWidth": 813.3333333333334,
+                                "y": 266.6666666666667,
+                                "yHeight": 364.8
+                            },
+                            "brightness": 0,
+                            "clipLayers": [],
+                            "contrast": 0,
+                            "data": [
+                                {
+                                    "key": "text",
+                                    "value": "Badass"
+                                },
+                                {
+                                    "key": "hasWarp",
+                                    "value": false
+                                },
+                                {
+                                    "key": "hasEffects",
+                                    "value": false
+                                },
+                                {
+                                    "key": "alignment",
+                                    "value": "left"
+                                },
+                                {
+                                    "key": "name",
+                                    "value": "UTM-Fire-House"
+                                },
+                                {
+                                    "key": "style",
+                                    "value": "Regular"
+                                },
+                                {
+                                    "key": "rgb",
+                                    "value": "0,0,0"
+                                },
+                                {
+                                    "key": "font_size",
+                                    "value": 156.35606273797117
+                                }
+                            ],
+                            "fillOpacity": 1,
+                            "groupLayers": [],
+                            "hasClipLayers": 0,
+                            "hasMask": 0,
+                            "imgLayer": "pbase/shop-id/10063056/artworks/1589191488IigYQwFQHHBadass.png",
+                            "isGroup": 0,
+                            "kind": "type",
+                            "mask": "",
+                            "name": "Badass",
+                            "opacity": 255,
+                            "originImage": "pbase/shop-id/10063056/artworks/1589191488slVfxOJhoUBadass_original.png",
+                            "replaceImage": "",
+                            "rotate": 0,
+                            "transform": {
+                                "tx": 1449.7715418556086,
+                                "ty": 1356.7850402650342,
+                                "xx": 6.587774504775736,
+                                "xy": 0,
+                                "yx": 0,
+                                "yy": 5.863352352673919
+                            }
+                        },
+                        {
+                            "blendMode": "NORMAL",
+                            "box": {
+                                "height": 111.73333333333333,
+                                "width": 664.2666666666667,
+                                "x": 205.06666666666666,
+                                "xWidth": 869.3333333333334,
+                                "y": 1244.8,
+                                "yHeight": 1356.5333333333333
+                            },
+                            "brightness": 0,
+                            "clipLayers": [],
+                            "contrast": 0,
+                            "data": [
+                                {
+                                    "key": "text",
+                                    "value": "/bi(e)rdid-baed-aes-dad/ \r1. The most superior breed of dad. \rThe coolest and most fun dad known."
+                                },
+                                {
+                                    "key": "hasWarp",
+                                    "value": false
+                                },
+                                {
+                                    "key": "hasEffects",
+                                    "value": false
+                                },
+                                {
+                                    "key": "alignment",
+                                    "value": "left"
+                                },
+                                {
+                                    "key": "name",
+                                    "value": "KGBeStillAndKnow"
+                                },
+                                {
+                                    "key": "style",
+                                    "value": "Regular"
+                                },
+                                {
+                                    "key": "rgb",
+                                    "value": "0,0,0"
+                                },
+                                {
+                                    "key": "font_size",
+                                    "value": 32.25914696253475
+                                }
+                            ],
+                            "fillOpacity": 1,
+                            "groupLayers": [],
+                            "hasClipLayers": 0,
+                            "hasMask": 0,
+                            "imgLayer": "pbase/shop-id/10063056/artworks/1589191489qiuwSGHGgW_bi(e)rdid-baed-aes-dad___1._The_most_superior_breed_of_dad.__T.png",
+                            "isGroup": 0,
+                            "kind": "type",
+                            "mask": "",
+                            "name": "/bi(e)rdid-baed-aes-dad/  1. The most superior breed of dad.  T",
+                            "opacity": 255,
+                            "originImage": "pbase/shop-id/10063056/artworks/1589191489nZaHwEEeLb_bi(e)rdid-baed-aes-dad___1._The_most_superior_breed_of_dad.__T_original.png",
+                            "replaceImage": "",
+                            "rotate": 0,
+                            "transform": {
+                                "tx": 768.397877381189,
+                                "ty": 4779.41833910898,
+                                "xx": 1.5009926990020956,
+                                "xy": 0,
+                                "yx": 0,
+                                "yy": 1.500992699002095
+                            }
+                        },
+                        {
+                            "blendMode": "NORMAL",
+                            "box": {
+                                "height": 1038.1333333333332,
+                                "width": 761.3333333333334,
+                                "x": 221.06666666666666,
+                                "xWidth": 982.4,
+                                "y": 207.2,
+                                "yHeight": 1245.3333333333333
+                            },
+                            "brightness": 0,
+                            "clipLayers": [],
+                            "contrast": 0,
+                            "data": "",
+                            "fillOpacity": 1,
+                            "groupLayers": [],
+                            "hasClipLayers": 0,
+                            "hasMask": 0,
+                            "imgLayer": "pbase/shop-id/10063056/artworks/1589191495XbiyeQIsMZLayer_10_copy.png",
+                            "isGroup": 0,
+                            "kind": "pixel",
+                            "mask": "",
+                            "name": "Layer 10 copy",
+                            "opacity": 255,
+                            "originImage": "pbase/shop-id/10063056/artworks/1589191490umBzCYdjxsLayer_10_copy_original.png",
+                            "replaceImage": "",
+                            "rotate": 0,
+                            "transform": {
+                                "tx": 0,
+                                "ty": 0,
+                                "xx": 0,
+                                "xy": 0,
+                                "yx": 0,
+                                "yy": 0
+                            }
+                        },
+                        {
+                            "blendMode": "NORMAL",
+                            "box": {
+                                "height": 248.79999999999998,
+                                "width": 471.2,
+                                "x": 364.26666666666665,
+                                "xWidth": 835.4666666666667,
+                                "y": 601.8666666666667,
+                                "yHeight": 850.6666666666666
+                            },
+                            "brightness": 0,
+                            "clipLayers": [],
+                            "contrast": 0,
+                            "data": [
+                                {
+                                    "key": "text",
+                                    "value": "Dad"
+                                },
+                                {
+                                    "key": "hasWarp",
+                                    "value": false
+                                },
+                                {
+                                    "key": "hasEffects",
+                                    "value": true
+                                },
+                                {
+                                    "key": "alignment",
+                                    "value": "left"
+                                },
+                                {
+                                    "key": "name",
+                                    "value": "OctinVintageABl-Regular"
+                                },
+                                {
+                                    "key": "style",
+                                    "value": "Regular"
+                                },
+                                {
+                                    "key": "rgb",
+                                    "value": "0,0,0"
+                                },
+                                {
+                                    "key": "font_size",
+                                    "value": 254.3780752316952
+                                }
+                            ],
+                            "fillOpacity": 0,
+                            "groupLayers": [],
+                            "hasClipLayers": 0,
+                            "hasMask": 0,
+                            "imgLayer": "pbase/shop-id/10063056/artworks/1589191497RIJDhpQIfrDad.png",
+                            "isGroup": 0,
+                            "kind": "type",
+                            "mask": "",
+                            "name": "Dad",
+                            "opacity": 255,
+                            "originImage": "pbase/shop-id/10063056/artworks/1589191497QJdfkNPCiqDad_original.png",
+                            "replaceImage": "",
+                            "rotate": 0,
+                            "transform": {
+                                "tx": 1323.123765965647,
+                                "ty": 2874.4612500692624,
+                                "xx": 10.544537843772966,
+                                "xy": 0,
+                                "yx": 0,
+                                "yy": 9.53917782118857
+                            }
+                        }
+                    ],
+                    "hasClipLayers": 1,
+                    "hasMask": 0,
+                    "imgLayer": "pbase/shop-id/10063056/artworks/1589191485lIYVEvBlGoDESIGN_1_father.png",
+                    "isGroup": 1,
+                    "kind": "group",
+                    "mask": "",
+                    "name": "DESIGN 1 father",
+                    "opacity": 255,
+                    "originImage": "",
+                    "replaceImage": "",
+                    "rotate": 0,
+                    "transform": {
+                        "tx": 0,
+                        "ty": 0,
+                        "xx": 0,
+                        "xy": 0,
+                        "yx": 0,
+                        "yy": 0
+                    }
+                }
+            ]
+        },
+        "index": 0
+    },
+    "customOptionProperties": {
+        "332541300505": "",
+        "411000255520": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/b30ee7b572cd714361f1151289c410a0.png"
+    },
+    "styleCustomOptions": [
+        {
+            "name": "text1",
+            "label": "Custom name",
+            "type": "text",
+            "placeholder": "",
+            "max_length": 255,
+            "required": true,
+            "psd_text_layer": "Bearded",
+            "font": "Open Sans",
+            "font_size": 0,
+            "alignment": "",
+            "side": "front",
+            "id": "332541300505",
+            "values": null,
+            "help_text": "You should upload image in 500x200 pixel to get the best quality",
+            "default_value_index": 0,
+            "min_size": 0,
+            "font_path": "https://assets-dev.boostflow.com/pbase/shop-id/10050761/fonts/d9342972210f8380ffa019ad9b3961c4.ttf",
+            "layer_wrapper": null
+        },
+        {
+            "name": "aeer",
+            "label": "Picture",
+            "type": "picture",
+            "placeholder": "",
+            "max_length": 255,
+            "required": true,
+            "psd_text_layer": "Layer 10 copy",
+            "font": "",
+            "font_size": 0,
+            "alignment": "",
+            "side": "front",
+            "id": "411000255520",
+            "values": [
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/b30ee7b572cd714361f1151289c410a0.png",
+                    "text": "1"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/3006c11e2110555fa7e6e8542bc57a87.png",
+                    "text": "2"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/983e292c9969ee16eb1587a96a7f9c95.png",
+                    "text": "3"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/905a92739e447183633864d96a177b8e.png",
+                    "text": "4"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/82705dda92d5472e7a42254c0d30e9a9.png",
+                    "text": "5"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/7b4e19e979cf9085ed1dd9c2a9fbc639.png",
+                    "text": "6"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/1e9c2b4e3de0c9a4e7c095289b23da7a.png",
+                    "text": "7"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/0649b2d572c4f5aa5356126a1fa54250.jpg",
+                    "text": "7877"
+                },
+                {
+                    "value": "https://stag-img.boostflow.com/pbase/shop-id/10063056/picture-choice/6223af097d0a2e189ce1afc0dc6f6361.png",
+                    "text": "xxx"
+                }
+            ],
+            "help_text": "You should upload image in 500x200 pixel to get the best quality",
+            "default_value_index": 0,
+            "min_size": 0,
+            "font_path": "",
+            "layer_wrapper": null
+        }
+    ]
+}
